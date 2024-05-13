@@ -1,0 +1,25 @@
+# Configuración global
+root = true
+
+[*]
+# Estilo de indentación: espacio o tabulación
+indent_style = space
+
+# Tamaño de la indentación en caracteres
+indent_size = 2
+
+# Carácter de final de línea: lf (Unix)
+end_of_line = lf
+
+# Codificación de caracteres del archivo: utf-8
+charset = utf-8
+
+# Recortar espacios en blanco al final de las líneas
+trim_trailing_whitespace = true
+
+# Archivos Markdown
+[*.md]
+trim_trailing_whitespace = false
+
+# Archivos con nueva línea al final
+insert_final_newline = true
