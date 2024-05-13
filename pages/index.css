@@ -2,12 +2,12 @@
 
 @import url("../vendor/fonts.css");
 
-@import url("../block/pages.css");
+@import url("../blocks/pages.css");
 
-@import url("../block/logo.css");
+@import url("../blocks/logo.css");
 
-@import url("../block/header.css");
+@import url("../blocks/header.css");
 
-@import url("../block/intro.css");
+@import url("../blocks/intro.css");
 
-@import url("../block/footer.css");
+@import url("../blocks/footer.css");
