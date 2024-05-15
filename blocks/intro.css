@@ -2,13 +2,13 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  margin-left: 25vw;
+  margin: 0 auto;
+  align-items: center;
 }
 
 .intro__title {
   max-width: 830px;
   min-height: 173.92px;
-
   font-size: 58px;
   text-align: start;
   line-height: 58px;
